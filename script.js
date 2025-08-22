@@ -1,7 +1,7 @@
 var count = 0;
 
 function Add(){
-    if (count < 50){ 
+    if (count < 100){ 
     count++;
     document.getElementById("show").innerHTML= count;
     }

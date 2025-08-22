@@ -27,6 +27,9 @@ h1{
     font-size: 60px;
     color: white;
 }
+footer{
+    margin-top: 70px;
+}
 button{
     width: 80px;
     height: 50px;
